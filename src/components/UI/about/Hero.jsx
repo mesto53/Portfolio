@@ -33,15 +33,11 @@ const Hero = () => {
                     </p>
                     <Socail />
                 </div>
-                {/* hero left end */}
 
-                {/* hero img */}
                 <div className='basis-1/3 mt-10 sm:mt-0'>
-                    <img  className='flex items-center justify-center ' src={mesto} alt='mesto image' />
+                    <img  className='flex items-center justify-center ' src={mesto} alt='mesto' />
                 </div>
-                {/* hero img end */}
 
-                {/* hero image content right */}
                 <div className='md:basis-1/5 flex justify-between text-center mt-10 flex-wrap gap-3 md:mt-0 md:flex-col
                         md:justify-end md:text-end'>
                     <div className='mb-10'>
