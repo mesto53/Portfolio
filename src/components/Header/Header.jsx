@@ -7,7 +7,7 @@ import { headerStyle } from '../UI/style/Styles';
 const Header = () => {
   return (
     <header className="bg-[#444]" style={headerStyle}>
-    <div className="container mx-auto py-4 flex items-center justify-between">
+    <div className="container py-4 flex items-center justify-between">
       <Logo />
       <Nav />
     </div>

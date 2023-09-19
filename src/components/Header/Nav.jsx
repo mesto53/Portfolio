@@ -4,7 +4,7 @@ import { NavLink  } from 'react-router-dom';
 
 export default function Nav() {
     return (
-        <nav className="md:flex items-center space-x-5 overflow-x-auto">
+        <nav className="md:flex items-center space-x-5 overflow-x-hidden">
         <NavLink className="text-white" to="/">
           About
         </NavLink>
