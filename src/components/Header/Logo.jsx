@@ -9,7 +9,7 @@ export default function Logo() {
         <b>MA</b>
       </div>
       <div>
-        <h2 className='text-white'>Mohammad Almestrah</h2>
+        <h2 className='text-white mb-2'>Mohammad Almestrah</h2>
         <Resume/>
       </div>
     </div>
