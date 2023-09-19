@@ -5,7 +5,8 @@ import portfolioImg04 from "../assets/images/portfolio.png";
 import portfolioImg05 from "../assets/images/portfolio-05.jpg";
 import portfolioImg06 from "../assets/images/portfolio-06.jpg";
 import portfolioImg07 from "../assets/images/portfolio-07.jpg";
-import portfolioImg02 from "../assets/images/ux.avif"
+import portfolioImg02 from "../assets/images/ux.avif";
+import portfolioImg09 from "../assets/images/EJ.png";
 const portfolios = [
  
   {
@@ -96,6 +97,16 @@ const portfolios = [
     description:
       "database for cenima with triggers and function and procedure",
     technologies: ["no", "no", "no", "Sql"],
+    siteUrl: "#",
+  },
+  {
+    id: "09",
+    imgUrl: portfolioImg09,
+    category: "Web Design",
+    title: "Emplyees Manger job ",
+    description:
+      "Website for an admin to manage his employees job with deleteing, creating and Editing jobs with restoring data after delete in adition employee also like job.In addition of assigning jobs for employess and u can't delete employee if he have job also can't delete job if it has employee.With filtering of employee and jobs.",
+    technologies: ["asp.net", "bootstrap", "Entity Framwork", "Sql"],
     siteUrl: "#",
   },
 ];
