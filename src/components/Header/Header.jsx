@@ -1,5 +1,4 @@
 import React from 'react';
-import Resume from './Resume';
 import Nav from './Nav';
 import Logo from './Logo';
 import { headerStyle } from '../UI/style/Styles';
@@ -11,7 +10,6 @@ const Header = () => {
     <div className="container mx-auto py-4 flex items-center justify-between">
       <Logo />
       <Nav />
-      <Resume />
     </div>
   </header>
   );
