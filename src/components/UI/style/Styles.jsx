@@ -12,6 +12,7 @@ const containerStyle = {
     position: 'fixed',
     top:0,
     zIndex: 2, 
+    width : '100%',
   };
   export const headingStyle = {
     fontSize: '5rem', 
