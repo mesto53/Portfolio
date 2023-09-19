@@ -15,7 +15,6 @@ const containerStyle = {
     width : '100%',
   };
   export const headingStyle = {
-    fontSize: '5rem', 
     marginBottom: '20px', 
   };
   

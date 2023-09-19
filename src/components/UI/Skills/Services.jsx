@@ -16,7 +16,7 @@ const Services = () => {
         <section id="services">
             <div className='container lg:pt-5'>
                 <div className='text-center'>
-                    <h2 className='text-headingColor font-[800] text-[2.4rem] mt-4'>Skill Set</h2>
+                    <h2 className='text-headingColor font-[800] text-[2.4rem] mt-10'>Skill Set</h2>
                     <p className='lg:max-w-[600px] lg:max-auto justify-between text-headingcolor font-[500] text-[16px] leading-7 '></p>
                 </div>
 
