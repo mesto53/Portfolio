@@ -7,6 +7,8 @@ import validator from 'validator';
 
 
 const Contact = () => {
+    //debugger;
+
     const form = useRef(null);
     const [isConfirmationVisible, setConfirmationVisible] = useState(false);
     const [isEmailValid, setEmailValid] = useState(true);
