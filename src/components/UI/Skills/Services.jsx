@@ -8,6 +8,10 @@ import C from '../../../assets/images/c#.png';
 import net from '../../../assets/images/net.jpeg';
 import Serv from './Serv';
 import php from '../../../assets/images/php.png'
+import laravel from '../../../assets/images/laravel.jpeg'
+import angular from '../../../assets/images/angular.jpeg'
+
+
 
 
 
@@ -34,6 +38,8 @@ const Services = () => {
                             <Serv image={pyImage} desc='Python' way={0}/>
                             <Serv image={net} desc='Asp.Net' way={1} />
                             <Serv image={php} desc='PHP' way={0}/>
+                            <Serv image={angular} desc='PHP' way={1}/>
+                            <Serv image={laravel} desc='PHP' way={0}/>
                         </div>
                     </div>
                 </div>
