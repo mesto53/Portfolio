@@ -38,8 +38,8 @@ const Services = () => {
                             <Serv image={pyImage} desc='Python' way={0}/>
                             <Serv image={net} desc='Asp.Net' way={1} />
                             <Serv image={php} desc='PHP' way={0}/>
-                            <Serv image={angular} desc='PHP' way={1}/>
-                            <Serv image={laravel} desc='PHP' way={0}/>
+                            <Serv image={angular} desc='Angular' way={1}/>
+                            <Serv image={laravel} desc='Laravel' way={0}/>
                         </div>
                     </div>
                 </div>
